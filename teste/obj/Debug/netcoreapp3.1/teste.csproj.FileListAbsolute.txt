@@ -1,0 +1,13 @@
+/home/rafaeru/Desktop/teste/bin/Debug/netcoreapp3.1/teste
+/home/rafaeru/Desktop/teste/bin/Debug/netcoreapp3.1/teste.deps.json
+/home/rafaeru/Desktop/teste/bin/Debug/netcoreapp3.1/teste.runtimeconfig.json
+/home/rafaeru/Desktop/teste/bin/Debug/netcoreapp3.1/teste.runtimeconfig.dev.json
+/home/rafaeru/Desktop/teste/bin/Debug/netcoreapp3.1/teste.dll
+/home/rafaeru/Desktop/teste/bin/Debug/netcoreapp3.1/teste.pdb
+/home/rafaeru/Desktop/teste/obj/Debug/netcoreapp3.1/teste.csprojAssemblyReference.cache
+/home/rafaeru/Desktop/teste/obj/Debug/netcoreapp3.1/teste.csproj.CoreCompileInputs.cache
+/home/rafaeru/Desktop/teste/obj/Debug/netcoreapp3.1/teste.AssemblyInfoInputs.cache
+/home/rafaeru/Desktop/teste/obj/Debug/netcoreapp3.1/teste.AssemblyInfo.cs
+/home/rafaeru/Desktop/teste/obj/Debug/netcoreapp3.1/teste.dll
+/home/rafaeru/Desktop/teste/obj/Debug/netcoreapp3.1/teste.pdb
+/home/rafaeru/Desktop/teste/obj/Debug/netcoreapp3.1/teste.genruntimeconfig.cache
